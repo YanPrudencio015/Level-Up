@@ -57,5 +57,5 @@ blue - #068FFF
 green - #00993d
 black - #151515
 purple - #9d14ff
-withe - #fff
+white - #fff
 */
