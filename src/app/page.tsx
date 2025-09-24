@@ -8,16 +8,17 @@ export default function Home() {
   return (
    <div >
     <Header/>
-    <MenuSidebar/>
-    testing project:
 
-     <Image
+    {/* redesign sidebar */}
+    {/* <MenuSidebar/> */}
+
+     {/* <Image
       src="/loading3.gif"
       alt="Picture of the author"
       width={500}
       height={500}
       
-    />
+    /> */}
    </div>
   );
 }
